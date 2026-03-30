@@ -1,0 +1,5 @@
+{
+  "id": "tip_034",
+  "title": "Check Website HTTPS Certificates",
+  "content": "Ensure websites use HTTPS before entering sensitive information. Click the lock icon in the address bar to view certificate details. Avoid entering credentials on sites with warnings or invalid certificates."
+}

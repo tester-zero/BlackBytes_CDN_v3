@@ -1,0 +1,5 @@
+{
+  "id": "tip_038",
+  "title": "Use Virtual Machines for Risky Tasks",
+  "content": "Perform testing, unknown downloads, or suspicious file execution inside a virtual machine. This isolates potential threats from your main system and reduces permanent damage if malware is present."
+}

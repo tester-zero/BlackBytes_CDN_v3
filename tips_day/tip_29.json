@@ -1,0 +1,5 @@
+{
+  "id": "tip_029",
+  "title": "Use DNS with Security Filtering",
+  "content": "Switch to a secure DNS provider that blocks malicious domains and phishing sites. Services like Cloudflare or Quad9 can add an extra layer of protection without affecting browsing speed. Configure DNS at the device or router level."
+}

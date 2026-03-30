@@ -1,0 +1,5 @@
+{
+  "id": "tip_041",
+  "title": "Disable Auto-Connect to Wi-Fi",
+  "content": "Turn off auto-connect for open Wi-Fi networks. Attackers can create fake hotspots to intercept traffic. Manually connect only to trusted networks you recognize."
+}

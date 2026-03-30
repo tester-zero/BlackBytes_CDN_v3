@@ -1,0 +1,355 @@
+{
+  "version": "1.0",
+  "last_updated": "2026-02-28",
+  "total_tips": 45,
+  "tips": [
+    {
+      "day": 1,
+      "tip_id": "tip_001",
+      "file": "tips_day/tip_1.json",
+      "category": "Email Security",
+      "priority": "high"
+    },
+    {
+      "day": 2,
+      "tip_id": "tip_002",
+      "file": "tips_day/tip_2.json",
+      "category": "Authentication",
+      "priority": "high"
+    },
+    {
+      "day": 3,
+      "tip_id": "tip_003",
+      "file": "tips_day/tip_3.json",
+      "category": "Password Management",
+      "priority": "high"
+    },
+    {
+      "day": 4,
+      "tip_id": "tip_004",
+      "file": "tips_day/tip_4.json",
+      "category": "Password Security",
+      "priority": "high"
+    },
+    {
+      "day": 5,
+      "tip_id": "tip_005",
+      "file": "tips_day/tip_5.json",
+      "category": "Phishing Prevention",
+      "priority": "high"
+    },
+    {
+      "day": 6,
+      "tip_id": "tip_006",
+      "file": "tips_day/tip_6.json",
+      "category": "Network Security",
+      "priority": "medium"
+    },
+    {
+      "day": 7,
+      "tip_id": "tip_007",
+      "file": "tips_day/tip_7.json",
+      "category": "Privacy",
+      "priority": "medium"
+    },
+    {
+      "day": 8,
+      "tip_id": "tip_008",
+      "file": "tips_day/tip_8.json",
+      "category": "Device Security",
+      "priority": "high"
+    },
+    {
+      "day": 9,
+      "tip_id": "tip_009",
+      "file": "tips_day/tip_9.json",
+      "category": "Mobile Security",
+      "priority": "high"
+    },
+    {
+      "day": 10,
+      "tip_id": "tip_010",
+      "file": "tips_day/tip_10.json",
+      "category": "Network Security",
+      "priority": "high"
+    },
+    {
+      "day": 11,
+      "tip_id": "tip_011",
+      "file": "tips_day/tip_11.json",
+      "category": "Malware Protection",
+      "priority": "high"
+    },
+    {
+      "day": 12,
+      "tip_id": "tip_012",
+      "file": "tips_day/tip_12.json",
+      "category": "Physical Security",
+      "priority": "medium"
+    },
+    {
+      "day": 13,
+      "tip_id": "tip_013",
+      "file": "tips_day/tip_13.json",
+      "category": "Data Protection",
+      "priority": "high"
+    },
+    {
+      "day": 14,
+      "tip_id": "tip_014",
+      "file": "tips_day/tip_14.json",
+      "category": "Hardware Security",
+      "priority": "high"
+    },
+    {
+      "day": 15,
+      "tip_id": "tip_015",
+      "file": "tips_day/tip_15.json",
+      "category": "Endpoint Security",
+      "priority": "medium"
+    },
+    {
+      "day": 16,
+      "tip_id": "tip_016",
+      "file": "tips_day/tip_16.json",
+      "category": "Web Security",
+      "priority": "medium"
+    },
+    {
+      "day": 17,
+      "tip_id": "tip_017",
+      "file": "tips_day/tip_17.json",
+      "category": "Social Engineering",
+      "priority": "medium"
+    },
+    {
+      "day": 18,
+      "tip_id": "tip_018",
+      "file": "tips_day/tip_18.json",
+      "category": "Account Security",
+      "priority": "high"
+    },
+    {
+      "day": 19,
+      "tip_id": "tip_019",
+      "file": "tips_day/tip_19.json",
+      "category": "Email Security",
+      "priority": "medium"
+    },
+    {
+      "day": 20,
+      "tip_id": "tip_020",
+      "file": "tips_day/tip_20.json",
+      "category": "Data Encryption",
+      "priority": "high"
+    },
+    {
+      "day": 21,
+      "tip_id": "tip_021",
+      "file": "tips_day/tip_21.json",
+      "category": "Cloud Security",
+      "priority": "medium"
+    },
+    {
+      "day": 22,
+      "tip_id": "tip_022",
+      "file": "tips_day/tip_22.json",
+      "category": "Wireless Security",
+      "priority": "low"
+    },
+    {
+      "day": 23,
+      "tip_id": "tip_023",
+      "file": "tips_day/tip_23.json",
+      "category": "Scam Prevention",
+      "priority": "high"
+    },
+    {
+      "day": 24,
+      "tip_id": "tip_024",
+      "file": "tips_day/tip_24.json",
+      "category": "Financial Security",
+      "priority": "high"
+    },
+    {
+      "day": 25,
+      "tip_id": "tip_025",
+      "file": "tips_day/tip_25.json",
+      "category": "Security Awareness",
+      "priority": "medium"
+    },
+    {
+      "day": 26,
+      "tip_id": "tip_026",
+      "file": "tips_day/tip_26.json",
+      "category": "Account Security",
+      "priority": "high"
+    },
+    {
+      "day": 27,
+      "tip_id": "tip_027",
+      "file": "tips_day/tip_27.json",
+      "category": "Access Control",
+      "priority": "high"
+    },
+    {
+      "day": 28,
+      "tip_id": "tip_028",
+      "file": "tips_day/tip_28.json",
+      "category": "Mobile Security",
+      "priority": "high"
+    },
+    {
+      "day": 29,
+      "tip_id": "tip_029",
+      "file": "tips_day/tip_29.json",
+      "category": "Network Security",
+      "priority": "medium"
+    },
+    {
+      "day": 30,
+      "tip_id": "tip_030",
+      "file": "tips_day/tip_30.json",
+      "category": "Phishing Prevention",
+      "priority": "high"
+    },
+    {
+      "day": 31,
+      "tip_id": "tip_031",
+      "file": "tips_day/tip_31.json",
+      "category": "Malware Protection",
+      "priority": "high"
+    },
+    {
+      "day": 32,
+      "tip_id": "tip_032",
+      "file": "tips_day/tip_32.json",
+      "category": "Identity Management",
+      "priority": "medium"
+    },
+    {
+      "day": 33,
+      "tip_id": "tip_033",
+      "file": "tips_day/tip_33.json",
+      "category": "Email Security",
+      "priority": "high"
+    },
+    {
+      "day": 34,
+      "tip_id": "tip_034",
+      "file": "tips_day/tip_34.json",
+      "category": "Web Security",
+      "priority": "medium"
+    },
+    {
+      "day": 35,
+      "tip_id": "tip_035",
+      "file": "tips_day/tip_35.json",
+      "category": "Device Protection",
+      "priority": "medium"
+    },
+    {
+      "day": 36,
+      "tip_id": "tip_036",
+      "file": "tips_day/tip_36.json",
+      "category": "Human Security",
+      "priority": "high"
+    },
+    {
+      "day": 37,
+      "tip_id": "tip_037",
+      "file": "tips_day/tip_37.json",
+      "category": "Browser Security",
+      "priority": "medium"
+    },
+    {
+      "day": 38,
+      "tip_id": "tip_038",
+      "file": "tips_day/tip_38.json",
+      "category": "Advanced Security",
+      "priority": "low"
+    },
+    {
+      "day": 39,
+      "tip_id": "tip_039",
+      "file": "tips_day/tip_39.json",
+      "category": "Mobile Security",
+      "priority": "high"
+    },
+    {
+      "day": 40,
+      "tip_id": "tip_040",
+      "file": "tips_day/tip_40.json",
+      "category": "Account Security",
+      "priority": "medium"
+    },
+    {
+      "day": 41,
+      "tip_id": "tip_041",
+      "file": "tips_day/tip_41.json",
+      "category": "Network Safety",
+      "priority": "medium"
+    },
+    {
+      "day": 42,
+      "tip_id": "tip_042",
+      "file": "tips_day/tip_42.json",
+      "category": "Physical Security",
+      "priority": "medium"
+    },
+    {
+      "day": 43,
+      "tip_id": "tip_043",
+      "file": "tips_day/tip_43.json",
+      "category": "Authentication",
+      "priority": "high"
+    },
+    {
+      "day": 44,
+      "tip_id": "tip_044",
+      "file": "tips_day/tip_44.json",
+      "category": "Scam Awareness",
+      "priority": "high"
+    },
+    {
+      "day": 45,
+      "tip_id": "tip_045",
+      "file": "tips_day/tip_45.json",
+      "category": "Device Security",
+      "priority": "low"
+    }
+  ],
+  "categories": [
+    "Email Security",
+    "Authentication",
+    "Password Management",
+    "Password Security",
+    "Phishing Prevention",
+    "Network Security",
+    "Privacy",
+    "Device Security",
+    "Mobile Security",
+    "Malware Protection",
+    "Physical Security",
+    "Data Protection",
+    "Hardware Security",
+    "Endpoint Security",
+    "Web Security",
+    "Social Engineering",
+    "Account Security",
+    "Data Encryption",
+    "Cloud Security",
+    "Wireless Security",
+    "Scam Prevention",
+    "Financial Security",
+    "Security Awareness",
+    "Access Control",
+    "Identity Management",
+    "Device Protection",
+    "Human Security",
+    "Browser Security",
+    "Advanced Security",
+    "Network Safety",
+    "Scam Awareness"
+  ]
+}

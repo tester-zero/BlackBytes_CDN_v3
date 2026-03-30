@@ -1,0 +1,5 @@
+{
+  "id": "tip_031",
+  "title": "Disable Macro Execution in Documents",
+  "content": "Disable macros in Microsoft Office and similar tools unless absolutely required. Malicious documents often use macros to install malware. Open documents from unknown senders in a protected or read-only mode."
+}

@@ -1,0 +1,227 @@
+[
+  {
+    "id": "adelphi-uk-ransomware-claim",
+    "title": "Adelphi UK Ransomware Claim",
+    "category": "Ransomware",
+    "context": "DragonForce ransomware group listed Adelphi UK on Feb 16, claiming breach from Feb 11 intrusion. Victim has not confirmed encryption or data theft yet.",
+    "image_url": "https://d3lu3qnchgm3nw.cloudfront.net/AcuCustom/Sitename/DAM/040/ransomware.jpg_s1024x1024wisk20cXxsT9PT5H-tELHcEqUshS.jpg",
+    "read_time": 2,
+    "sources": [
+      {
+        "name": "Bright Defense",
+        "logo_url": "",
+        "news_url": "https://www.brightdefense.com/resources/recent-data-breaches/"
+      }
+    ]
+  },
+  {
+    "id": "apple-pay-phishing-targets-users",
+    "title": "Apple Pay Phishing Targets Users",
+    "category": "Cyber Attack",
+    "context": "Sophisticated Apple Pay phishing scheme uses fake fraud warnings across channels to harvest payment details. Users urged to verify alerts carefully.",
+    "image_url": "https://d3lu3qnchgm3nw.cloudfront.net/AcuCustom/Sitename/DAM/040/ransomware.jpg_s1024x1024wisk20cXxsT9PT5H-tELHcEqUshS.jpg",
+    "read_time": 2,
+    "sources": [
+      {
+        "name": "Data Breaches Digest",
+        "logo_url": "",
+        "news_url": "https://www.dbdigest.com/2026/02/data-breaches-digest-week-6-2026.html"
+      }
+    ]
+  },
+  {
+    "id": "barnhart-group-pii-phi-exposed",
+    "title": "Barnhart Group PII PHI Exposed",
+    "category": "Data Breach",
+    "context": "Barnhart Group data breach exposes PII and PHI, affecting sensitive personal and health information.",
+    "image_url": "https://d3lu3qnchgm3nw.cloudfront.net/AcuCustom/Sitename/DAM/040/ransomware.jpg_s1024x1024wisk20cXxsT9PT5H-tELHcEqUshS.jpg",
+    "read_time": 2,
+    "sources": [
+      {
+        "name": "Data Breaches Digest",
+        "logo_url": "",
+        "news_url": "https://www.dbdigest.com/2026/02/data-breaches-digest-week-6-2026.html"
+      }
+    ]
+  },
+  {
+    "id": "omax-autos-ransomware-attack",
+    "title": "Omax Autos Ransomware Attack",
+    "category": "Ransomware",
+    "context": "Auto components maker Omax Autos confirmed a ransomware attack on its IT infrastructure on March 27, 2026. The company is currently assessing the impact.",
+    "image_url": "https://d3lu3qnchgm3nw.cloudfront.net/AcuCustom/Sitename/DAM/040/ransomware.jpg_s1024x1024wisk20cXxsT9PT5H-tELHcEqUshS.jpg",
+    "read_time": 3,
+    "sources": [
+      {
+        "name": "PTI News",
+        "logo_url": "",
+        "news_url": "https://www.ptinews.com/story/business/ransomware-attack-on-it-infra-assessing-potential-impact-omax-autos/3505155"
+      }
+    ]
+  },
+  {
+    "id": "breachforums-v5-leak",
+    "title": "BreachForums Version 5 Data Breach",
+    "category": "Data Breach",
+    "context": "A breach of the 'Version 5' iteration of BreachForums exposed 340,000 unique email addresses, usernames, and argon2 password hashes on March 27, 2026.",
+    "image_url": "https://d3lu3qnchgm3nw.cloudfront.net/AcuCustom/Sitename/DAM/040/ransomware.jpg_s1024x1024wisk20cXxsT9PT5H-tELHcEqUshS.jpg",
+    "read_time": 2,
+    "sources": [
+      {
+        "name": "Have I Been Pwned",
+        "logo_url": "",
+        "news_url": "https://haveibeenpwned.com/Breach/BreachForumsV5"
+      }
+    ]
+  },
+  {
+    "id": "cisa-kev-aqua-security",
+    "title": "CISA Adds Aqua Security Vulnerability to KEV",
+    "category": "Vulnerability",
+    "context": "CISA added CVE-2026-33634 (Aqua Security Trivy Malicious Code) to its Known Exploited Vulnerabilities catalog on March 26, 2026, due to active exploitation.",
+    "image_url": "https://d3lu3qnchgm3nw.cloudfront.net/AcuCustom/Sitename/DAM/040/ransomware.jpg_s1024x1024wisk20cXxsT9PT5H-tELHcEqUshS.jpg",
+    "read_time": 2,
+    "sources": [
+      {
+        "name": "CISA",
+        "logo_url": "",
+        "news_url": "https://www.cisa.gov/news-events/alerts/2026/03/26/cisa-adds-one-known-exploited-vulnerability-catalog"
+      }
+    ]
+  },
+  {
+    "id": "port-of-vigo-ransomware",
+    "title": "Port of Vigo Ransomware Disruption",
+    "category": "Ransomware",
+    "context": "Spain's Port of Vigo was hit by ransomware on March 25, 2026, forcing a disconnect of digital systems and a shift to manual cargo management.",
+    "image_url": "https://d3lu3qnchgm3nw.cloudfront.net/AcuCustom/Sitename/DAM/040/ransomware.jpg_s1024x1024wisk20cXxsT9PT5H-tELHcEqUshS.jpg",
+    "read_time": 3,
+    "sources": [
+      {
+        "name": "The Record",
+        "logo_url": "",
+        "news_url": "https://therecord.media/port-of-vigo-ransomware"
+      }
+    ]
+  },
+  {
+    "id": "accenture-anthropic-cyber-ai",
+    "title": "Accenture and Anthropic Launch Cyber.AI",
+    "category": "AI Security",
+    "context": "On March 25, 2026, Accenture launched Cyber.AI, a solution powered by Anthropic's Claude to automate security workflows and scale AI-driven operations.",
+    "image_url": "https://d3lu3qnchgm3nw.cloudfront.net/AcuCustom/Sitename/DAM/040/ransomware.jpg_s1024x1024wisk20cXxsT9PT5H-tELHcEqUshS.jpg",
+    "read_time": 4,
+    "sources": [
+      {
+        "name": "Accenture Newsroom",
+        "logo_url": "",
+        "news_url": "https://newsroom.accenture.com/news/2026/accenture-and-anthropic-team-to-help-organizations-secure-scale-ai-driven-cybersecurity-operations"
+      }
+    ]
+  },
+  {
+    "id": "royal-chemical-lynx-ransomware",
+    "title": "Royal Chemical Data Breach Reported",
+    "category": "Data Breach",
+    "context": "Reported on March 24, 2026, the Lynx ransomware group compromised Royal Chemical, exposing SSNs, financial data, and driver's licenses.",
+    "image_url": "https://d3lu3qnchgm3nw.cloudfront.net/AcuCustom/Sitename/DAM/040/ransomware.jpg_s1024x1024wisk20cXxsT9PT5H-tELHcEqUshS.jpg",
+    "read_time": 3,
+    "sources": [
+      {
+        "name": "UpGuard",
+        "logo_url": "",
+        "news_url": "https://www.upguard.com/news/royal-chemical-data-breach-2026-03-26"
+      }
+    ]
+  },
+  {
+    "id": "darksword-spyware-apple-alert",
+    "title": "CISA Warns of Darksword Spyware",
+    "category": "Malware",
+    "context": "CISA alerted federal agencies on March 23, 2026, to fix vulnerabilities exploited by Darksword spyware on Apple devices and Craft CMS platforms.",
+    "image_url": "https://d3lu3qnchgm3nw.cloudfront.net/AcuCustom/Sitename/DAM/040/ransomware.jpg_s1024x1024wisk20cXxsT9PT5H-tELHcEqUshS.jpg",
+    "read_time": 3,
+    "sources": [
+      {
+        "name": "Times of India",
+        "logo_url": "",
+        "news_url": "https://timesofindia.indiatimes.com/technology/tech-news/us-cyber-security-agency-gives-deadline-to-federal-agencies-to-fix-darksword-spyware-threat-on-apple-devices/articleshow/129749345.cms"
+      }
+    ]
+  },
+  {
+    "id": "lexisnexis-reach2shell-breach",
+    "title": "LexisNexis Confirms Data Leak",
+    "category": "Data Breach",
+    "context": "LexisNexis confirmed a breach in early March 2026 involving the Reach2Shell vulnerability, resulting in the theft of customer metadata and support tickets.",
+    "image_url": "https://d3lu3qnchgm3nw.cloudfront.net/AcuCustom/Sitename/DAM/040/ransomware.jpg_s1024x1024wisk20cXxsT9PT5H-tELHcEqUshS.jpg",
+    "read_time": 3,
+    "sources": [
+      {
+        "name": "Privacy Guides",
+        "logo_url": "",
+        "news_url": "https://www.privacyguides.org/news/2026/03/09/data-breach-roundup-feb-20-feb-26-2026-2/"
+      }
+    ]
+  },
+  {
+    "id": "france-medical-data-theft",
+    "title": "15 Million Medical Records Stolen in France",
+    "category": "Data Breach",
+    "context": "The French Health Ministry confirmed on Feb 27, 2026, that medical notes of 15 million people were compromised and leaked online by hackers.",
+    "image_url": "https://d3lu3qnchgm3nw.cloudfront.net/AcuCustom/Sitename/DAM/040/ransomware.jpg_s1024x1024wisk20cXxsT9PT5H-tELHcEqUshS.jpg",
+    "read_time": 4,
+    "sources": [
+      {
+        "name": "France 24",
+        "logo_url": "",
+        "news_url": "https://www.france24.com/en/live-news/20260227-hackers-steal-medical-details-of-15-million-in-france"
+      }
+    ]
+  },
+  {
+    "id": "match-group-shinyhunters-breach",
+    "title": "Match Group 10 Million Records Exposed",
+    "category": "Data Breach",
+    "context": "Hackers linked to ShinyHunters claimed a breach of Match Group (Tinder, Hinge) in early 2026, accessing user records and transaction data.",
+    "image_url": "https://d3lu3qnchgm3nw.cloudfront.net/AcuCustom/Sitename/DAM/040/ransomware.jpg_s1024x1024wisk20cXxsT9PT5H-tELHcEqUshS.jpg",
+    "read_time": 3,
+    "sources": [
+      {
+        "name": "ACI Learning",
+        "logo_url": "",
+        "news_url": "https://www.acilearning.com/blog/the-biggest-cybersecurity-breaches-of-2026-so-far-and-the-training-that-could-have-prevented-them/"
+      }
+    ]
+  },
+  {
+    "id": "brightspeed-telecom-ransomware",
+    "title": "Brightspeed Ransomware Affects 1M Users",
+    "category": "Ransomware",
+    "context": "Telecom provider Brightspeed suffered a ransomware attack in early 2026, impacting the personal data of over one million subscribers.",
+    "image_url": "https://d3lu3qnchgm3nw.cloudfront.net/AcuCustom/Sitename/DAM/040/ransomware.jpg_s1024x1024wisk20cXxsT9PT5H-tELHcEqUshS.jpg",
+    "read_time": 3,
+    "sources": [
+      {
+        "name": "ACI Learning",
+        "logo_url": "",
+        "news_url": "https://www.acilearning.com/blog/the-biggest-cybersecurity-breaches-of-2026-so-far-and-the-training-that-could-have-prevented-them/"
+      }
+    ]
+  },
+  {
+    "id": "odido-dutch-telecom-breach",
+    "title": "Odido Data Breach Exposes 6M Accounts",
+    "category": "Data Breach",
+    "context": "Dutch telecom Odido confirmed a breach on Feb 18, 2026, exposing names, bank account numbers, and passport details for 6 million users.",
+    "image_url": "https://d3lu3qnchgm3nw.cloudfront.net/AcuCustom/Sitename/DAM/040/ransomware.jpg_s1024x1024wisk20cXxsT9PT5H-tELHcEqUshS.jpg",
+    "read_time": 3,
+    "sources": [
+      {
+        "name": "World Economic Forum",
+        "logo_url": "",
+        "news_url": "https://www.weforum.org/stories/2026/02/2026-cyberthreats-to-watch-and-other-cybersecurity-news/"
+      }
+    ]
+  }
+]

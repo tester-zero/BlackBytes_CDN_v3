@@ -1,0 +1,5 @@
+{
+  "id": "tip_042",
+  "title": "Harden Your Lock Screen",
+  "content": "Disable sensitive notifications on the lock screen. Prevent message previews, OTPs, and emails from appearing when the device is locked. This protects information from shoulder surfing."
+}

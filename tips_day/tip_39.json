@@ -1,0 +1,5 @@
+{
+  "id": "tip_039",
+  "title": "Protect Against SIM Swap Attacks",
+  "content": "Set a SIM PIN with your mobile carrier to prevent unauthorized SIM swaps. Avoid using SMS-based authentication for critical accounts. Monitor your phone for sudden loss of network signal."
+}

@@ -1,0 +1,5 @@
+{
+  "id": "tip_043",
+  "title": "Use Security Keys for Critical Accounts",
+  "content": "Consider using hardware security keys for highly sensitive accounts. These provide strong protection against phishing and account takeover. Many major platforms support security keys as a login option."
+}

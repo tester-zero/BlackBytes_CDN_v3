@@ -1,0 +1,5 @@
+{
+  "id": "tip_028",
+  "title": "Restrict App Installation Sources",
+  "content": "Disable \"install from unknown sources\" on your devices. Only install apps from official app stores like Google Play or Apple App Store. This significantly reduces the risk of malware and trojanized applications."
+}

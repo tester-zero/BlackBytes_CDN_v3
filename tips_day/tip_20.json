@@ -1,0 +1,5 @@
+{
+  "id": "tip_020",
+  "title": "Encrypt Your Storage",
+  "content": "Enable full-disk encryption on your devices to protect stored data. Modern operating systems offer built-in encryption like BitLocker, FileVault, or Android encryption. This ensures your data remains unreadable if the device is stolen."
+}

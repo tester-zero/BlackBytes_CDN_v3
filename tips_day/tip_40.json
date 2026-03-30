@@ -1,0 +1,5 @@
+{
+  "id": "tip_040",
+  "title": "Review Third-Party App Connections",
+  "content": "Check which third-party apps have access to your accounts. Revoke access for apps you no longer use or trust. Compromised third-party services can be used to access your data indirectly."
+}

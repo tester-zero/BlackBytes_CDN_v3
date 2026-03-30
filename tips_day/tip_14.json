@@ -1,0 +1,5 @@
+{
+  "id": "tip_014",
+  "title": "Avoid Unknown USB Devices",
+  "content": "Never plug unknown or found USB drives into your device. Malicious USBs can automatically install malware or steal data. Use your own trusted storage devices and disable USB auto-run features in system settings."
+}
