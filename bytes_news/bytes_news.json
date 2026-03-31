@@ -1,5 +1,20 @@
 [
   {
+  "id": "chrome-update-8-vulnerabilities",
+  "title": "Google Chrome Update Fixes 8 Security Vulnerabilities",
+  "category": "Vulnerability",
+  "context": "Google released a Chrome update addressing eight security vulnerabilities, potentially impacting over 3.5 billion users worldwide. Some of these flaws are considered high severity and could allow attackers to execute malicious code or compromise user data if left unpatched.",
+  "image_url": "https://assets.techrepublic.com/uploads/2026/03/chrome-issue-770x420.jpg",
+  "read_time": 2,
+  "sources": [
+		{
+		  "name": "TechRepublic",
+		  "logo_url": "",
+		  "news_url": "https://www.techrepublic.com/article/news-chrome-update-8-vulnerabilities-3-5-billion-users/"
+		}
+	  ]
+	},
+  {
     "id": "adelphi-uk-ransomware-claim",
     "title": "Adelphi UK Ransomware Claim",
     "category": "Ransomware",
