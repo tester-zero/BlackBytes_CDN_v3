@@ -1,241 +1,226 @@
 [
   {
-  "id": "chrome-update-8-vulnerabilities",
-  "title": "Google Chrome Update Fixes 8 Security Vulnerabilities",
-  "category": "Vulnerability",
-  "context": "Google released a Chrome update addressing eight security vulnerabilities, potentially impacting over 3.5 billion users worldwide. Some of these flaws are considered high severity and could allow attackers to execute malicious code or compromise user data if left unpatched.",
-  "image_url": "https://assets.techrepublic.com/uploads/2026/03/chrome-issue-770x420.jpg",
-  "read_time": 2,
-  "sources": [
-		{
-		  "name": "TechRepublic",
-		  "logo_url": "",
-		  "news_url": "https://www.techrepublic.com/article/news-chrome-update-8-vulnerabilities-3-5-billion-users/"
-		}
-	  ]
-	},
-  {
-    "id": "adelphi-uk-ransomware-claim",
-    "title": "Adelphi UK Ransomware Claim",
-    "category": "Ransomware",
-    "context": "DragonForce ransomware group listed Adelphi UK on Feb 16, claiming breach from Feb 11 intrusion. Victim has not confirmed encryption or data theft yet.",
-    "image_url": "https://d3lu3qnchgm3nw.cloudfront.net/AcuCustom/Sitename/DAM/040/ransomware.jpg_s1024x1024wisk20cXxsT9PT5H-tELHcEqUshS.jpg",
-    "read_time": 2,
-    "sources": [
-      {
-        "name": "Bright Defense",
-        "logo_url": "",
-        "news_url": "https://www.brightdefense.com/resources/recent-data-breaches/"
-      }
-    ]
-  },
-  {
-    "id": "apple-pay-phishing-targets-users",
-    "title": "Apple Pay Phishing Targets Users",
+    "id": "hasbro-cyberattack-operations-disrupted",
+    "title": "Toy Giant Hasbro Hit by Cyberattack, Disrupting Global Operations",
     "category": "Cyber Attack",
-    "context": "Sophisticated Apple Pay phishing scheme uses fake fraud warnings across channels to harvest payment details. Users urged to verify alerts carefully.",
-    "image_url": "https://d3lu3qnchgm3nw.cloudfront.net/AcuCustom/Sitename/DAM/040/ransomware.jpg_s1024x1024wisk20cXxsT9PT5H-tELHcEqUshS.jpg",
-    "read_time": 2,
-    "sources": [
-      {
-        "name": "Data Breaches Digest",
-        "logo_url": "",
-        "news_url": "https://www.dbdigest.com/2026/02/data-breaches-digest-week-6-2026.html"
-      }
-    ]
-  },
-  {
-    "id": "barnhart-group-pii-phi-exposed",
-    "title": "Barnhart Group PII PHI Exposed",
-    "category": "Data Breach",
-    "context": "Barnhart Group data breach exposes PII and PHI, affecting sensitive personal and health information.",
-    "image_url": "https://d3lu3qnchgm3nw.cloudfront.net/AcuCustom/Sitename/DAM/040/ransomware.jpg_s1024x1024wisk20cXxsT9PT5H-tELHcEqUshS.jpg",
-    "read_time": 2,
-    "sources": [
-      {
-        "name": "Data Breaches Digest",
-        "logo_url": "",
-        "news_url": "https://www.dbdigest.com/2026/02/data-breaches-digest-week-6-2026.html"
-      }
-    ]
-  },
-  {
-    "id": "omax-autos-ransomware-attack",
-    "title": "Omax Autos Ransomware Attack",
-    "category": "Ransomware",
-    "context": "Auto components maker Omax Autos confirmed a ransomware attack on its IT infrastructure on March 27, 2026. The company is currently assessing the impact.",
-    "image_url": "https://d3lu3qnchgm3nw.cloudfront.net/AcuCustom/Sitename/DAM/040/ransomware.jpg_s1024x1024wisk20cXxsT9PT5H-tELHcEqUshS.jpg",
+    "context": "Hasbro confirmed a significant cyberattack that forced several corporate systems offline. The intrusion, detected in late March, has impacted order processing and shipping. While no group has claimed responsibility, experts suggest a ransomware-driven motive aimed at data theft and operational extortion.",
+    "image_url": "https://www.securityweek.com/wp-content/uploads/2026/04/Hasbro.jpeg",
     "read_time": 3,
     "sources": [
       {
-        "name": "PTI News",
+        "name": "SecurityWeek",
         "logo_url": "",
-        "news_url": "https://www.ptinews.com/story/business/ransomware-attack-on-it-infra-assessing-potential-impact-omax-autos/3505155"
+        "news_url": "https://www.securityweek.com/toy-giant-hasbro-hit-by-cyberattack/"
       }
     ]
   },
   {
-    "id": "breachforums-v5-leak",
-    "title": "BreachForums Version 5 Data Breach",
-    "category": "Data Breach",
-    "context": "A breach of the 'Version 5' iteration of BreachForums exposed 340,000 unique email addresses, usernames, and argon2 password hashes on March 27, 2026.",
-    "image_url": "https://d3lu3qnchgm3nw.cloudfront.net/AcuCustom/Sitename/DAM/040/ransomware.jpg_s1024x1024wisk20cXxsT9PT5H-tELHcEqUshS.jpg",
-    "read_time": 2,
-    "sources": [
-      {
-        "name": "Have I Been Pwned",
-        "logo_url": "",
-        "news_url": "https://haveibeenpwned.com/Breach/BreachForumsV5"
-      }
-    ]
-  },
-  {
-    "id": "cisa-kev-aqua-security",
-    "title": "CISA Adds Aqua Security Vulnerability to KEV",
+    "id": "chrome-zero-day-cve-2026-5281",
+    "title": "Google Patches Exploited Chrome Zero-Day Vulnerability",
     "category": "Vulnerability",
-    "context": "CISA added CVE-2026-33634 (Aqua Security Trivy Malicious Code) to its Known Exploited Vulnerabilities catalog on March 26, 2026, due to active exploitation.",
-    "image_url": "https://d3lu3qnchgm3nw.cloudfront.net/AcuCustom/Sitename/DAM/040/ransomware.jpg_s1024x1024wisk20cXxsT9PT5H-tELHcEqUshS.jpg",
+    "context": "Google released an emergency update for Chrome (v146.0.7680.177) to fix CVE-2026-5281, a high-severity 'use-after-free' flaw in the Dawn graphics component. This vulnerability is actively being exploited in the wild to execute arbitrary code via malicious HTML pages.",
+    "image_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fsecurityonline.info%2Fwp-content%2Fuploads%2F2025%2F07%2Fchrome-zero.png&f=1&nofb=1&ipt=9366aa0c388a16298fb7d471ba989000988545061da435900ef663ad66c77fda",
     "read_time": 2,
     "sources": [
       {
-        "name": "CISA",
+        "name": "Cyber Security Agency of Singapore",
         "logo_url": "",
-        "news_url": "https://www.cisa.gov/news-events/alerts/2026/03/26/cisa-adds-one-known-exploited-vulnerability-catalog"
+        "news_url": "https://www.csa.gov.sg/alerts-and-advisories/alerts/al-2026-029/"
       }
     ]
   },
   {
-    "id": "port-of-vigo-ransomware",
-    "title": "Port of Vigo Ransomware Disruption",
-    "category": "Ransomware",
-    "context": "Spain's Port of Vigo was hit by ransomware on March 25, 2026, forcing a disconnect of digital systems and a shift to manual cargo management.",
-    "image_url": "https://d3lu3qnchgm3nw.cloudfront.net/AcuCustom/Sitename/DAM/040/ransomware.jpg_s1024x1024wisk20cXxsT9PT5H-tELHcEqUshS.jpg",
-    "read_time": 3,
-    "sources": [
-      {
-        "name": "The Record",
-        "logo_url": "",
-        "news_url": "https://therecord.media/port-of-vigo-ransomware"
-      }
-    ]
-  },
-  {
-    "id": "accenture-anthropic-cyber-ai",
-    "title": "Accenture and Anthropic Launch Cyber.AI",
-    "category": "AI Security",
-    "context": "On March 25, 2026, Accenture launched Cyber.AI, a solution powered by Anthropic's Claude to automate security workflows and scale AI-driven operations.",
-    "image_url": "https://d3lu3qnchgm3nw.cloudfront.net/AcuCustom/Sitename/DAM/040/ransomware.jpg_s1024x1024wisk20cXxsT9PT5H-tELHcEqUshS.jpg",
+    "id": "european-commission-aws-breach",
+    "title": "European Commission Investigates 350GB Data Theft",
+    "category": "Data Breach",
+    "context": "The European Commission's AWS cloud environment was breached, resulting in the theft of 350GB of data from the Europa.eu portal. The ShinyHunters group has claimed responsibility, leaking screenshots of internal employee data and email server access as proof.",
+    "image_url": "https://cyberinsider.com/wp-content/uploads/2026/03/European-Commission-confirms-data-breach-after-attack-on-cloud-infrastructure.jpg",
     "read_time": 4,
     "sources": [
       {
-        "name": "Accenture Newsroom",
+        "name": "cyberinsider",
         "logo_url": "",
-        "news_url": "https://newsroom.accenture.com/news/2026/accenture-and-anthropic-team-to-help-organizations-secure-scale-ai-driven-cybersecurity-operations"
+        "news_url": "https://cyberinsider.com/european-commission-confirms-data-breach-after-attack-on-cloud-infrastructure/"
       }
     ]
   },
   {
-    "id": "royal-chemical-lynx-ransomware",
-    "title": "Royal Chemical Data Breach Reported",
+    "id": "operation-alice-dark-web-takedown",
+    "title": "Operation Alice Shuts Down 373,000 Dark Web Domains",
+    "category": "Dark Web",
+    "context": "In a massive global operation, Europol and German authorities dismantled a network of over 373,000 dark web domains. The network primarily hosted fraudulent 'Cybercrime-as-a-Service' (CaaS) offerings and fake CSAM packages used to defraud thousands of users worldwide.",
+    "image_url": "https://www.europol.europa.eu/cms/sites/default/files/styles/800x/public/images/Operation%20ALICE_1_Cover_1920x1080.png?itok=XW-Y8xsK",
+    "read_time": 5,
+    "sources": [
+      {
+        "name": "Europol",
+        "logo_url": "",
+        "news_url": "https://www.europol.europa.eu/media-press/newsroom/news/global-cybercrime-crackdown-over-373-000-dark-web-sites-shut-down"
+      }
+    ]
+  },
+  {
+    "id": "qualderm-3-million-records-exposed",
+    "title": "QualDerm Data Exposure Affects 3.1 Million Patients",
     "category": "Data Breach",
-    "context": "Reported on March 24, 2026, the Lynx ransomware group compromised Royal Chemical, exposing SSNs, financial data, and driver's licenses.",
-    "image_url": "https://d3lu3qnchgm3nw.cloudfront.net/AcuCustom/Sitename/DAM/040/ransomware.jpg_s1024x1024wisk20cXxsT9PT5H-tELHcEqUshS.jpg",
+    "context": "Healthcare provider QualDerm reported a massive data exposure incident affecting more than 3.1 million individuals. The leaked information includes sensitive patient PII and health records, marking one of the largest healthcare breaches of the quarter.",
+    "image_url": "https://dailysecurityreview.com/wp-content/uploads/2026/03/QualDerm-Partners-Data-Breach-Hits-Over-3.1-Million-People.png",
     "read_time": 3,
     "sources": [
       {
-        "name": "UpGuard",
+        "name": "Daily Security Review",
         "logo_url": "",
-        "news_url": "https://www.upguard.com/news/royal-chemical-data-breach-2026-03-26"
+        "news_url": "https://dailysecurityreview.com/cyber-security/qualderm-partners-data-breach-hits-over-3-1-million-people/"
       }
     ]
   },
   {
-    "id": "darksword-spyware-apple-alert",
-    "title": "CISA Warns of Darksword Spyware",
-    "category": "Malware",
-    "context": "CISA alerted federal agencies on March 23, 2026, to fix vulnerabilities exploited by Darksword spyware on Apple devices and Craft CMS platforms.",
-    "image_url": "https://d3lu3qnchgm3nw.cloudfront.net/AcuCustom/Sitename/DAM/040/ransomware.jpg_s1024x1024wisk20cXxsT9PT5H-tELHcEqUshS.jpg",
-    "read_time": 3,
-    "sources": [
-      {
-        "name": "Times of India",
-        "logo_url": "",
-        "news_url": "https://timesofindia.indiatimes.com/technology/tech-news/us-cyber-security-agency-gives-deadline-to-federal-agencies-to-fix-darksword-spyware-threat-on-apple-devices/articleshow/129749345.cms"
-      }
-    ]
-  },
-  {
-    "id": "lexisnexis-reach2shell-breach",
-    "title": "LexisNexis Confirms Data Leak",
-    "category": "Data Breach",
-    "context": "LexisNexis confirmed a breach in early March 2026 involving the Reach2Shell vulnerability, resulting in the theft of customer metadata and support tickets.",
-    "image_url": "https://d3lu3qnchgm3nw.cloudfront.net/AcuCustom/Sitename/DAM/040/ransomware.jpg_s1024x1024wisk20cXxsT9PT5H-tELHcEqUshS.jpg",
-    "read_time": 3,
-    "sources": [
-      {
-        "name": "Privacy Guides",
-        "logo_url": "",
-        "news_url": "https://www.privacyguides.org/news/2026/03/09/data-breach-roundup-feb-20-feb-26-2026-2/"
-      }
-    ]
-  },
-  {
-    "id": "france-medical-data-theft",
-    "title": "15 Million Medical Records Stolen in France",
-    "category": "Data Breach",
-    "context": "The French Health Ministry confirmed on Feb 27, 2026, that medical notes of 15 million people were compromised and leaked online by hackers.",
-    "image_url": "https://d3lu3qnchgm3nw.cloudfront.net/AcuCustom/Sitename/DAM/040/ransomware.jpg_s1024x1024wisk20cXxsT9PT5H-tELHcEqUshS.jpg",
+    "id": "axios-npm-malware-supply-chain",
+    "title": "Axios NPM Package Hit by North Korean Supply Chain Attack",
+    "category": "Cyber Attack",
+    "context": "Security researchers discovered a malicious version of the popular 'axios' NPM package. The breach is attributed to North Korean state-sponsored actors aiming to inject backdoors into downstream developer environments and corporate networks.",
+    "image_url": "https://www.securityweek.com/wp-content/uploads/2023/04/Chrome-Zero-Day-exploits.jpg",
     "read_time": 4,
     "sources": [
       {
-        "name": "France 24",
+        "name": "SecurityWeek",
         "logo_url": "",
-        "news_url": "https://www.france24.com/en/live-news/20260227-hackers-steal-medical-details-of-15-million-in-france"
+        "news_url": "https://www.securityweek.com/exploited-zero-day-among-21-vulnerabilities-patched-in-chrome/"
       }
     ]
   },
   {
-    "id": "match-group-shinyhunters-breach",
-    "title": "Match Group 10 Million Records Exposed",
+    "id": "apple-ios-18-security-patch",
+    "title": "Apple Issues Rare Security Patch for Older iOS 18 Devices",
+    "category": "Vulnerability",
+    "context": "Despite the push for iOS 26, Apple released a critical security patch for iOS 18 users. The patch addresses a zero-day vulnerability being used in targeted attacks against users who have not yet upgraded to the latest hardware or software versions.",
+    "image_url": "https://media.cybernews.com/images/featured-big/2024/09/ios18-features.jpg",
+    "read_time": 2,
+    "sources": [
+      {
+        "name": "Cybernews",
+        "logo_url": "",
+        "news_url": "https://cybernews.com/tech/darksword-threat-apple-ios-18-security-patch/"
+      }
+    ]
+  },
+  {
+    "id": "alamo-heights-isd-ransomware",
+    "title": "Texas School District Locked Out by Ransomware Attack",
+    "category": "Cyber Attack",
+    "context": "Alamo Heights Independent School District in Texas suffered a total network lockout starting March 23. The attack disabled Gmail and internet services across all campuses, forcing the district to operate on manual business continuity plans.",
+    "image_url": "https://edscoop.com/wp-content/uploads/sites/4/2019/08/ransomware.jpg?resize=1012,675",
+    "read_time": 2,
+    "sources": [
+      {
+        "name": "EDSCOOP",
+        "logo_url": "",
+        "news_url": "https://edscoop.com/texas-school-paid-547k-ransomware-jam/"
+      }
+    ]
+  },
+  {
+    "id": "redline-malware-admin-extradited",
+    "title": "Alleged RedLine Malware Administrator Extradited to US",
+    "category": "Cyber Attack",
+    "context": "Following a multi-year international manhunt, the lead administrator of the RedLine Infostealer malware has been extradited to the United States. RedLine has been responsible for stealing millions of credentials and financial records globally.",
+    "image_url": "https://cyberscoop.com/wp-content/uploads/sites/3/2026/03/GettyImages-2225090126.jpg?resize=1012,675",
+    "read_time": 3,
+    "sources": [
+      {
+        "name": "SecurityWeek",
+        "logo_url": "",
+        "news_url": "https://cyberscoop.com/alleged-redline-infostealer-conspirator-extradited-to-us/"
+      }
+    ]
+  },
+  {
+    "id": "uranium-crypto-exchange-hacker-charged",
+    "title": "US Charges Hacker in Uranium Crypto Exchange Breach",
+    "category": "Cyber Attack",
+    "context": "The US Department of Justice has unsealed charges against a hacker involved in the breach of the Uranium cryptocurrency exchange. The attacker successfully siphoned millions in digital assets using a smart contract exploit that was recently traced via blockchain analytics.",
+    "image_url": "https://www.bleepstatic.com/content/hl-images/2026/03/31/cryptocurrency.jpg",
+    "read_time": 3,
+    "sources": [
+      {
+        "name": "BleepingComputer",
+        "logo_url": "",
+        "news_url": "https://www.bleepingcomputer.com/news/security/hacker-charged-with-stealing-53-million-from-uranium-crypto-exchange/"
+      }
+    ]
+  },
+  {
+    "id": "gta-v-community-data-leak",
+    "title": "1 Million Records Leaked from GTA V RP Communities",
     "category": "Data Breach",
-    "context": "Hackers linked to ShinyHunters claimed a breach of Match Group (Tinder, Hinge) in early 2026, accessing user records and transaction data.",
-    "image_url": "https://d3lu3qnchgm3nw.cloudfront.net/AcuCustom/Sitename/DAM/040/ransomware.jpg_s1024x1024wisk20cXxsT9PT5H-tELHcEqUshS.jpg",
-    "read_time": 3,
+    "context": "A misconfigured server exposed nearly one million records from several Grand Theft Auto V role-play (RP) communities. The leak includes real-world identities, email addresses, and IP logs of players, posing a high risk of doxxing and swatting attacks.",
+    "image_url": "https://media.cybernews.com/images/featured-big/2026/04/gta-v-role-play-servers-neglectedp-security.jpg",
+    "read_time": 2,
     "sources": [
       {
-        "name": "ACI Learning",
+        "name": "Cybernews",
         "logo_url": "",
-        "news_url": "https://www.acilearning.com/blog/the-biggest-cybersecurity-breaches-of-2026-so-far-and-the-training-that-could-have-prevented-them/"
+        "news_url": "https://cybernews.com/security/gta-v-player-fivem-data-leak-spain/"
       }
     ]
   },
   {
-    "id": "brightspeed-telecom-ransomware",
-    "title": "Brightspeed Ransomware Affects 1M Users",
-    "category": "Ransomware",
-    "context": "Telecom provider Brightspeed suffered a ransomware attack in early 2026, impacting the personal data of over one million subscribers.",
-    "image_url": "https://d3lu3qnchgm3nw.cloudfront.net/AcuCustom/Sitename/DAM/040/ransomware.jpg_s1024x1024wisk20cXxsT9PT5H-tELHcEqUshS.jpg",
+    "id": "deepload-malware-clickfix-campaign",
+    "title": "New DeepLoad Malware Spotted in 'ClickFix' Phishing Attacks",
+    "category": "Cyber Attack",
+    "context": "A new malware strain dubbed 'DeepLoad' is being distributed via social engineering campaigns that trick users into fixing 'browser errors' by running PowerShell commands. Once executed, the malware provides full remote access to the attacker.",
+    "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2icgdVOmzM5pZsm88HvvmzcWKRBBXvG94z4fSZMEVPzb7GDoJ_MGDckeaK2dYVEoId5bhMbBtB0bTc0xWJshdOQ-fJEUH5nPIo028Cpm1bmmR1Qlrv5M6atg6oMz0wc0hX4phKfXivitHkWqMiE_Rl7PaD0qIrGMyaq9D_QwAMm62Bw5iaMBlHvwAnIa_/s1700-e365/deepload.jpg",
     "read_time": 3,
     "sources": [
       {
-        "name": "ACI Learning",
+        "name": "The Hacker News",
         "logo_url": "",
-        "news_url": "https://www.acilearning.com/blog/the-biggest-cybersecurity-breaches-of-2026-so-far-and-the-training-that-could-have-prevented-them/"
+        "news_url": "https://thehackernews.com/2026/03/deepload-malware-uses-clickfix-and-wmi.html"
       }
     ]
   },
   {
-    "id": "odido-dutch-telecom-breach",
-    "title": "Odido Data Breach Exposes 6M Accounts",
-    "category": "Data Breach",
-    "context": "Dutch telecom Odido confirmed a breach on Feb 18, 2026, exposing names, bank account numbers, and passport details for 6 million users.",
-    "image_url": "https://d3lu3qnchgm3nw.cloudfront.net/AcuCustom/Sitename/DAM/040/ransomware.jpg_s1024x1024wisk20cXxsT9PT5H-tELHcEqUshS.jpg",
+    "id": "fbi-china-apps-warning",
+    "title": "FBI Warns of Data Risks from China-Made Mobile Apps",
+    "category": "Vulnerability",
+    "context": "The FBI issued a fresh warning regarding security risks associated with certain mobile applications developed in China. The advisory highlights concerns over mandatory data sharing with foreign intelligence services and the potential for embedded surveillance features.",
+    "image_url": "https://www.securityweek.com/wp-content/uploads/2026/02/mobile-spyware-kit.jpg",
     "read_time": 3,
     "sources": [
       {
-        "name": "World Economic Forum",
+        "name": "SecurityWeek",
         "logo_url": "",
-        "news_url": "https://www.weforum.org/stories/2026/02/2026-cyberthreats-to-watch-and-other-cybersecurity-news/"
+        "news_url": "https://www.securityweek.com/fbi-warns-of-data-security-risks-from-china-made-mobile-apps/"
+      }
+    ]
+  },
+  {
+    "id": "dell-hp-quantum-resistant-security",
+    "title": "Dell and HP Roll Out Quantum-Resistant Firmware Updates",
+    "category": "Vulnerability",
+    "context": "In a preemptive strike against future threats, Dell and HP have begun rolling out quantum-resistant device security for their enterprise laptop lines. The updates implement new cryptographic standards designed to withstand attacks from future quantum computers.",
+    "image_url": "https://www.securityweek.com/wp-content/uploads/2026/03/HP-Dell-.jpeg",
+    "read_time": 4,
+    "sources": [
+      {
+        "name": "SecurityWeek",
+        "logo_url": "",
+        "news_url": "https://www.securityweek.com/hp-and-dell-roll-out-quantum-resistant-device-security-and-ai-era-cyber-resilience/"
+      }
+    ]
+  },
+  {
+    "id": "agewheeze-malware-cert-ua-impersonation",
+    "title": "Phishing Campaign Spreads AGEWHEEZE via CERT-UA Impersonation",
+    "category": "Cyber Attack",
+    "context": "A mass phishing campaign is currently impersonating the Computer Emergency Response Team of Ukraine (CERT-UA). The emails contain malicious attachments that, when opened, deploy AGEWHEEZE malware to exfiltrate sensitive government data.",
+    "image_url": "https://www.datocms-assets.com/75231/1723122109-screenshot-2024-08-08-at-16-01-36.png?dpr=0.75&fm=webp",
+    "read_time": 2,
+    "sources": [
+      {
+        "name": "WIZ",
+        "logo_url": "",
+        "news_url": "https://www.wiz.io/blog/emerging-phishing-campaign-targeting-aws-accounts"
       }
     ]
   }
