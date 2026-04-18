@@ -1,0 +1,11 @@
+/bootstrap.json
+  Cache-Control: public, max-age=60
+
+/bytes_news/*
+  Cache-Control: public, max-age=1800
+
+/tips_day/*
+  Cache-Control: public, max-age=1800
+
+/tips_of_the_day.json
+  Cache-Control: public, max-age=1800
