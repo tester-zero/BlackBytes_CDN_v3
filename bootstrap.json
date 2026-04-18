@@ -1,9 +1,9 @@
 {
-  "cdnVersion": "v1.0.3",
+  "cdnVersion": "v1.0.4",
   "lastUpdated": "2026-04-18",
   "news_cards": "bytes_news/bytes_news.json",
   "cards_count": 15,
   "cards_min": 15,
   "cards_max": 25,
-  "schema_version": "news-cards-v4"
+  "schema_version": "news-cards-v5"
 }

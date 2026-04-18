@@ -1,5 +1,20 @@
 [
   {
+    "id": "kraken-dark-web-extortion-insider-leak",
+    "title": "Crypto Exchange Kraken Faces Dark Web Extortion After Insider Leak",
+    "category": "Dark Web Threat",
+    "context": "Crypto exchange Kraken revealed it is facing an extortion attempt after insiders leaked internal system recordings that later surfaced on the dark web. The attackers demanded payment to prevent further data exposure. While only a small number of accounts were affected, the incident highlights growing insider threats and dark web–driven extortion tactics targeting major crypto platforms.",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/UweTPZX99rMmYJQoBvPT44-650-80.jpg.webp",
+    "read_time": 3,
+    "sources": [
+      {
+        "name": "TechRadar",
+        "logo_url": "",
+        "news_url": "https://www.techradar.com/pro/security/we-are-currently-being-extorted-crypto-giant-kraken-says-it-is-facing-extortion-attack-heres-what-we-know"
+      }
+    ]
+  },
+  {
     "id": "europol-dark-web-crackdown-373k-sites",
     "title": "Global Europol Operation Shuts Down 373,000 Dark Web Sites",
     "category": "Dark Web Crackdown",
@@ -11,21 +26,6 @@
         "name": "TechRadar",
         "logo_url": "",
         "news_url": "https://www.techradar.com/pro/security/global-europol-crackdown-knocks-over-373-000-dark-web-sites-offline"
-      }
-    ]
-  },
-  {
-    "id": "chrome-zero-day-cve-2026-5281",
-    "title": "Google Patches Exploited Chrome Zero-Day Vulnerability",
-    "category": "Vulnerability",
-    "context": "Google released an emergency update for Chrome (v146.0.7680.177) to fix CVE-2026-5281, a high-severity 'use-after-free' flaw in the Dawn graphics component. This vulnerability is actively being exploited in the wild to execute arbitrary code via malicious HTML pages.",
-    "image_url": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fsecurityonline.info%2Fwp-content%2Fuploads%2F2025%2F07%2Fchrome-zero.png&f=1&nofb=1&ipt=9366aa0c388a16298fb7d471ba989000988545061da435900ef663ad66c77fda",
-    "read_time": 2,
-    "sources": [
-      {
-        "name": "Cyber Security Agency of Singapore",
-        "logo_url": "",
-        "news_url": "https://www.csa.gov.sg/alerts-and-advisories/alerts/al-2026-029/"
       }
     ]
   },
