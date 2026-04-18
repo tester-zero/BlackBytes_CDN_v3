@@ -1,16 +1,16 @@
 [
   {
-    "id": "hasbro-cyberattack-operations-disrupted",
-    "title": "Toy Giant Hasbro Hit by Cyberattack, Disrupting Global Operations",
-    "category": "Cyber Attack",
-    "context": "Hasbro confirmed a significant cyberattack that forced several corporate systems offline. The intrusion, detected in late March, has impacted order processing and shipping. While no group has claimed responsibility, experts suggest a ransomware-driven motive aimed at data theft and operational extortion.",
-    "image_url": "https://www.securityweek.com/wp-content/uploads/2026/04/Hasbro.jpeg",
-    "read_time": 3,
+    "id": "europol-dark-web-crackdown-373k-sites",
+    "title": "Global Europol Operation Shuts Down 373,000 Dark Web Sites",
+    "category": "Dark Web Crackdown",
+    "context": "A major international operation led by Europol dismantled over 373,000 dark web sites linked to cybercrime and scam networks. The platform, active since 2019, defrauded thousands of users and operated large-scale illegal services. Authorities seized servers, identified hundreds of suspects, and continue investigations into global cybercrime links.",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/V5UoHpQhbFJU2bGSSKCRYM-650-80.jpg.webp",
+    "read_time": 2,
     "sources": [
       {
-        "name": "SecurityWeek",
+        "name": "TechRadar",
         "logo_url": "",
-        "news_url": "https://www.securityweek.com/toy-giant-hasbro-hit-by-cyberattack/"
+        "news_url": "https://www.techradar.com/pro/security/global-europol-crackdown-knocks-over-373-000-dark-web-sites-offline"
       }
     ]
   },
