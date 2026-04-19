@@ -1,16 +1,16 @@
 [
   {
-    "id": "kraken-dark-web-extortion-insider-leak",
-    "title": "Crypto Exchange Kraken Faces Dark Web Extortion After Insider Leak",
-    "category": "Dark Web Threat",
-    "context": "Crypto exchange Kraken revealed it is facing an extortion attempt after insiders leaked internal system recordings that later surfaced on the dark web. The attackers demanded payment to prevent further data exposure. While only a small number of accounts were affected, the incident highlights growing insider threats and dark web–driven extortion tactics targeting major crypto platforms.",
-    "image_url": "https://cdn.mos.cms.futurecdn.net/UweTPZX99rMmYJQoBvPT44-650-80.jpg.webp",
-    "read_time": 3,
+    "id": "microsoft-ai-phishing-campaign-2026",
+    "title": "Microsoft Warns of Sophisticated AI-Driven Phishing Campaign Targeting Enterprises",
+    "category": "Cyber Threat",
+    "context": "Microsoft has issued a warning about a large-scale phishing campaign leveraging generative AI to craft highly convincing emails targeting enterprise users. The attackers are using AI tools to mimic writing styles, corporate tone, and even internal communication patterns, significantly increasing success rates. Security experts note that traditional detection methods are struggling to keep up, underscoring the urgent need for advanced behavioral analysis and employee awareness training.",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/CT482eMSRL8PagRtuBVYNd-650-80.jpeg.webp",
+    "read_time": 4,
     "sources": [
       {
         "name": "TechRadar",
         "logo_url": "",
-        "news_url": "https://www.techradar.com/pro/security/we-are-currently-being-extorted-crypto-giant-kraken-says-it-is-facing-extortion-attack-heres-what-we-know"
+        "news_url": "https://www.techradar.com/pro/security/microsoft-warns-of-oauth-phishing-campaigns-able-to-bypass-email-and-browser-defenses-says-these-campaigns-demonstrate-that-this-abuse-is-operational-not-theoretical"
       }
     ]
   },
