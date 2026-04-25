@@ -1,5 +1,50 @@
 [
   {
+    "id": "anthropic-mythos-ai-cybersecurity-risk-2026",
+    "title": "Powerful ‘Mythos’ AI Sparks Global Concerns",
+    "category": "Cyber Threat",
+    "context": "A highly advanced AI system called Mythos has triggered global concern in the cybersecurity community due to its ability to autonomously identify software vulnerabilities and simulate complex cyberattacks. Developed by Anthropic, the model has already uncovered hundreds of critical flaws in widely used software, demonstrating both defensive potential and offensive risk. Reports of unauthorized access to the system have intensified fears that such AI tools could be weaponized for automated hacking, ransomware campaigns, and large-scale cyber warfare, marking a new era of AI-driven cyber threats.",
+    "image_url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/PV25RSZEFVL27A35V6HDMIMR2Q.JPG&w=1440&impolicy=high_res",
+    "read_time": 4,
+    "sources": [
+      {
+        "name": "Washington Post",
+        "logo_url": "",
+        "news_url": "https://www.washingtonpost.com/technology/2026/04/24/anthropic-mythos-ai-washington-cybersecurity-hacking-risk/"
+      }
+    ]
+  },
+  {
+    "id": "french-government-darkweb-data-breach-2026",
+    "title": "French Government Data Breach Exposes Millions of Records on Dark Web Marketplace",
+    "category": "Data Breach",
+    "context": "A major French government agency responsible for identity and registration services has confirmed a large-scale data breach, with a hacker claiming to have stolen up to 19 million sensitive records. The stolen data, including personal details such as names, addresses, and birthdates, has reportedly been listed for sale on dark web forums. Authorities warn that the exposed information could be used for phishing, identity theft, and fraud, highlighting the growing role of dark web marketplaces in monetizing large-scale cyber breaches.",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/VsnoQAEmxjEvebB3dyY9Pj-650-80.jpg.webp",
+    "read_time": 3,
+    "sources": [
+      {
+        "name": "TechRadar",
+        "logo_url": "",
+        "news_url": "https://www.techradar.com/pro/security/french-government-agency-admits-data-breach-as-hacker-alleges-up-to-19-million-sensitive-records-stolen-breach-may-have-exposed-data-from-individual-and-professional-accounts"
+      }
+    ]
+  },
+  {
+    "id": "vercel-breach-darkweb-sale-2026",
+    "title": "Vercel Breach Leads to Dark Web Sale of Access Keys and Internal Data",
+    "category": "Cyber Attack",
+    "context": "Cloud platform Vercel has confirmed a cybersecurity breach caused by the compromise of a third-party AI tool, allowing attackers to access internal systems and employee data. Following the incident, threat actors advertised stolen access keys, source code, and database samples for sale on dark web forums, even demanding a ransom to prevent leaks. The breach highlights the growing risk posed by supply chain vulnerabilities and the rapid monetization of stolen data through underground cybercrime marketplaces.",
+    "image_url": "https://cdn.mos.cms.futurecdn.net/TSjWTMB6Euv4FSFe2seQh-650-80.jpg.webp",
+    "read_time": 3,
+    "sources": [
+      {
+        "name": "TechRadar",
+        "logo_url": "",
+        "news_url": "https://www.techradar.com/pro/security/weve-identified-a-security-incident-vercel-breach-confirmed-after-hackers-claim-stolen-data-for-sale-online"
+      }
+    ]
+  },
+  {
     "id": "microsoft-ai-phishing-campaign-2026",
     "title": "Microsoft Warns of Sophisticated AI-Driven Phishing Campaign Targeting Enterprises",
     "category": "Cyber Threat",
@@ -71,51 +116,6 @@
         "name": "Daily Security Review",
         "logo_url": "",
         "news_url": "https://dailysecurityreview.com/cyber-security/qualderm-partners-data-breach-hits-over-3-1-million-people/"
-      }
-    ]
-  },
-  {
-    "id": "axios-npm-malware-supply-chain",
-    "title": "Axios NPM Package Hit by North Korean Supply Chain Attack",
-    "category": "Cyber Attack",
-    "context": "Security researchers discovered a malicious version of the popular 'axios' NPM package. The breach is attributed to North Korean state-sponsored actors aiming to inject backdoors into downstream developer environments and corporate networks.",
-    "image_url": "https://www.securityweek.com/wp-content/uploads/2023/04/Chrome-Zero-Day-exploits.jpg",
-    "read_time": 4,
-    "sources": [
-      {
-        "name": "SecurityWeek",
-        "logo_url": "",
-        "news_url": "https://www.securityweek.com/exploited-zero-day-among-21-vulnerabilities-patched-in-chrome/"
-      }
-    ]
-  },
-  {
-    "id": "apple-ios-18-security-patch",
-    "title": "Apple Issues Rare Security Patch for Older iOS 18 Devices",
-    "category": "Vulnerability",
-    "context": "Despite the push for iOS 26, Apple released a critical security patch for iOS 18 users. The patch addresses a zero-day vulnerability being used in targeted attacks against users who have not yet upgraded to the latest hardware or software versions.",
-    "image_url": "https://media.cybernews.com/images/featured-big/2024/09/ios18-features.jpg",
-    "read_time": 2,
-    "sources": [
-      {
-        "name": "Cybernews",
-        "logo_url": "",
-        "news_url": "https://cybernews.com/tech/darksword-threat-apple-ios-18-security-patch/"
-      }
-    ]
-  },
-  {
-    "id": "alamo-heights-isd-ransomware",
-    "title": "Texas School District Locked Out by Ransomware Attack",
-    "category": "Cyber Attack",
-    "context": "Alamo Heights Independent School District in Texas suffered a total network lockout starting March 23. The attack disabled Gmail and internet services across all campuses, forcing the district to operate on manual business continuity plans.",
-    "image_url": "https://edscoop.com/wp-content/uploads/sites/4/2019/08/ransomware.jpg?resize=1012,675",
-    "read_time": 2,
-    "sources": [
-      {
-        "name": "EDSCOOP",
-        "logo_url": "",
-        "news_url": "https://edscoop.com/texas-school-paid-547k-ransomware-jam/"
       }
     ]
   },
